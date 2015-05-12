@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chap1>
+    <question>
+    	<number>1</number>
+    	<description>After completing his studies in Madrid, where did Rizal went in order to specialize in ophthalmology?</description>
+    	<choices_a>A. Paris</choices_a>
+    	<choices_b>B. Germany.</choices_b>
+    	<choices_c>C. Both A and B</choices_c>
+    	<choices_d>D. None of the Above</choices_d>
+    	<answer>C</answer>    
+    </question>
+    <question>
+    	<number>2</number>
+    	<description>Where did Rizal stop to visit Maximo Viola?</description>
+    	<choices_a>A. Barcelona</choices_a>
+    	<choices_b>B. Paris</choices_b>
+    	<choices_c>C. Germany</choices_c>
+    	<choices_d>D. Japan</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>3</number>
+    	<description>What was the date in the letter when he told Enrique Lete that he “learned the solfeggio, the piano, and voice culture in one month and a half”.</description>
+    	<choices_a>A. November 27, 1978</choices_a>
+    	<choices_b>B. November 27, 1987</choices_b>
+    	<choices_c>C. November 24, 1978</choices_c>
+    	<choices_d>D. November 25, 1972</choices_d>
+    	<answer>B</answer>    
+    </question>
+    <question>
+    	<number>4</number>
+    	<description>When was in Heidelberg?</description>
+    	<choices_a>A. February 8, 1886</choices_a>
+    	<choices_b>B. June 3, 1988</choices_b>
+    	<choices_c>C. March 18, 1987</choices_c>
+    	<choices_d>D. February 30, 1998</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>5</number>
+    	<description>When did he write the poem “TO THE FLOWERS OF HEIDELBERG”?</description>
+    	<choices_a>A. April 6, 1887</choices_a>
+    	<choices_b>B. April 22, 1886</choices_b>
+    	<choices_c>C. June 18, 1989</choices_c>
+    	<choices_d>D. December 30, 1982</choices_d>
+    	<answer>B</answer>    
+    </question>
+    <question>
+    	<number>6</number>
+    	<description>On July 31, 1886, Rizal wrote his first letter in German to ___________?</description>
+    	<choices_a>A. Professor Ferdinard Blumentritt</choices_a>
+    	<choices_b>B. Professor Ferdinand Blumentritt</choices_b>
+    	<choices_c>C. Maximo Viola</choices_c>
+    	<choices_d>D. Juan Luna</choices_d>
+    	<answer>B</answer>    
+    </question>
+    <question>
+    	<number>7</number>
+    	<description>Rizal stayed in Leipzig from ________ to ___________?</description>
+    	<choices_a>A. August 14 to October 29, 1886</choices_a>
+    	<choices_b>B. July 3 to August 14, 1885</choices_b>
+    	<choices_c>C. January 2 to March 18, 1889</choices_c>
+    	<choices_d>D. None of the Above</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>8</number>
+    	<description>During this bleak winter in Berlin, Rizal lived in poverty because?</description>
+    	<choices_a>A. No money arrived from Calamba</choices_a>
+    	<choices_b>B. He has no job</choices_b>
+    	<choices_c>C. He became sick and became a peasant</choices_c>
+    	<choices_d>D. None of the above</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>9</number>
+    	<description>What was the date of his letter to his sister Trinidad?</description>
+    	<choices_a>A. March 1, 1886</choices_a>
+    	<choices_b>B. March 2, 1886</choices_b>
+    	<choices_c>C. March 11, 1886</choices_c>
+    	<choices_d>D. March 21, 1887</choices_d>
+    	<answer>C</answer>    
+    </question>
+    <question>
+    	<number>10</number>
+    	<description>Who was the Director of Ateneo?</description>
+    	<choices_a>A. Ferdinand Blumentritt</choices_a>
+    	<choices_b>B. Maximo Viola</choices_b>
+    	<choices_c>C. Dr. R. Schulzer</choices_c>
+    	<choices_d>D. Rudolf Virchow</choices_d>
+    	<answer>A</answer>    
+    </question>
+</chap1>

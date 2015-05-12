@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chap1>
+    <question>
+    	<number>1</number>
+    	<description>What is the title of Chapter 1 of this book?</description>
+    	<choices_a>A. A HERO IS BORN, 1861</choices_a>
+    	<choices_b>B. A HERO IS BORN, 1869</choices_b>
+    	<choices_c>C. A HERO IS BORN, 1986</choices_c>
+    	<choices_d>D. None of the above.</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>2</number>
+    	<description>Which of the following is not a characteristic of Jose Rizal?</description>
+    	<choices_a>A. Cartographer</choices_a>
+    	<choices_b>B. Engineer</choices_b>
+    	<choices_c>C. Lexicographer</choices_c>
+    	<choices_d>D. Herbalist</choices_d>
+    	<answer>D</answer>    
+    </question>
+    <question>
+    	<number>3</number>
+    	<description>South of the Alps, Cavour and Garibaldi, in defiance of Austria’s might, were rallying the Italians to unite and fight for?</description>
+    	<choices_a>A. Italia Redento</choices_a>
+    	<choices_b>B. Redenta Italia</choices_b>
+    	<choices_c>C. Italia Redenta</choices_c>
+    	<choices_d>D. d. Redento Italia</choices_d>
+    	<answer>C</answer>    
+    </question>
+    <question>
+    	<number>4</number>
+    	<description>Who is the godfather of Jose Rizal?</description>
+    	<choices_a>A. Rev. Rufino Collantes</choices_a>
+    	<choices_b>B. Rev. Pedro Casañas</choices_b>
+    	<choices_c>C. Benito Juarez</choices_c>
+    	<choices_d>D. Czar Alexander</choices_d>
+    	<answer>B</answer>    
+    </question>
+    <question>
+    	<number>5</number>
+    	<description>Who baptized Jose Rizal?</description>
+    	<choices_a>A. Rev. Rufino Collantes</choices_a>
+    	<choices_b>B. Benito Juarez</choices_b>
+    	<choices_c>C. Czar Alexander</choices_c>
+    	<choices_d>D. Rev. Pedro Casañas</choices_d>
+    	<answer>A</answer>   
+    </question>
+    <question>
+    	<number>6</number>
+    	<description>What does Capitanes means?</description>
+    	<choices_a>A. Town Captain</choices_a>
+    	<choices_b>B. Town Mayors</choices_b>
+    	<choices_c>C. Town Governors</choices_c>
+    	<choices_d>D. Barangay Captain</choices_d>
+    	<answer>B</answer>    
+    </question>
+    <question>
+    	<number>7</number>
+    	<description>When Jose Rizal was born?</description>
+    	<choices_a>A. June 18, 1961</choices_a>
+    	<choices_b>B. July 18, 1861</choices_b>
+    	<choices_c>C. June 19, 1861</choices_c>
+    	<choices_d>D. None of the Above</choices_d>
+    	<answer>C</answer>    
+    </question>
+    <question>
+    	<number>8</number>
+    	<description>What is the day when Jose Rizal was born?</description>
+    	<choices_a>A. Thursday</choices_a>
+    	<choices_b>B. Friday</choices_b>
+    	<choices_c>C. Wednesday</choices_c>
+    	<choices_d>D. Monday</choices_d>
+    	<answer>C</answer>    
+    </question>
+    <question>
+    	<number>9</number>
+    	<description>The term “Rizal” came from what Spanish word?</description>
+    	<choices_a>A. Ricial</choices_a>
+    	<choices_b>B. Racial</choices_b>
+    	<choices_c>C. Recial</choices_c>
+    	<choices_d>D. Raciel</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>10</number>
+    	<description>What does Ricial means?</description>
+    	<choices_a>A. Green Field</choices_a>
+    	<choices_b>B. New Pasture</choices_b>
+    	<choices_c>C. Both A and B</choices_c>
+    	<choices_d>D. None of the Above</choices_d>
+    	<answer>C</answer>    
+    </question>
+</chap1>

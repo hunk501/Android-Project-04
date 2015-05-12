@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ebookapp.BookmarkList" >
+	
+    <item 
+        android:id="@+id/menu_back"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_menu_revert"
+        android:title="@string/lbl_menu_back"/>
+    
+    <item 
+        android:id="@+id/menu_delete"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/trash"
+        android:title="@string/lbl_menu_delete"/>
+
+</menu>

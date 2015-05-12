@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chap1>
+    <question>
+    	<number>1</number>
+    	<description>What was the first known poem that he wrote in Tagalog?</description>
+    	<choices_a>A. Sa Aking Mga Kababata</choices_a>
+    	<choices_b>B. Sa Aking Mga Kabatak</choices_b>
+    	<choices_c>C. Sa Aking Mga Kabata</choices_c>
+    	<choices_d>D. Sa aking mga Magulang</choices_d>
+    	<answer>C</answer>    
+    </question>
+    <question>
+    	<number>2</number>
+    	<description>Which of the following is not Rizal influence?</description>
+    	<choices_a>A. Hereditary Influence</choices_a>
+    	<choices_b>B. Environment Influence</choices_b>
+    	<choices_c>C. Aid of Divine Providence </choices_c>
+    	<choices_d>D. Relational Influence</choices_d>
+    	<answer>D</answer>    
+    </question>
+    <question>
+    	<number>3</number>
+    	<description>What is the title of the chapter 2?</description>
+    	<choices_a>A. Childhood Days in Kalentong</choices_a>
+    	<choices_b>B. Childhood Days in Laguna</choices_b>
+    	<choices_c>C. Childhood Days in Calamba</choices_c>
+    	<choices_d>D. Childhood Days in Rizal</choices_d>
+    	<answer>C</answer>    
+    </question>
+    <question>
+    	<number>4</number>
+    	<description>How old was Rizal when he was a student in Ateneo?</description>
+    	<choices_a>A. 15</choices_a>
+    	<choices_b>B. 16</choices_b>
+    	<choices_c>C. 17</choices_c>
+    	<choices_d>D. 18</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>5</number>
+    	<description>When he remembered his beloved town. What is the title of the poem he wrote?</description>
+    	<choices_a>A. Un Recuerdo A Mi Pueblo</choices_a>
+    	<choices_b>B. Pueblo Mi Recuerdo</choices_b>
+    	<choices_c>C. Amores Perros</choices_c>
+    	<choices_d>D. Mi Ultimo Adios</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>6</number>
+    	<description>Rizal affectionately called her father as ____, and mother as ____.</description>
+    	<choices_a>A. Nanay, Tatay</choices_a>
+    	<choices_b>B. Papa, Mama</choices_b>
+    	<choices_c>C. Tatay, Nanay</choices_c>
+    	<choices_d>D. Ama, Ina</choices_d>
+    	<answer>C</answer>    
+    </question>
+    <question>
+    	<number>7</number>
+    	<description>Which of the following is not Rizal’s uncle in mother side?</description>
+    	<choices_a>A. Gregorio</choices_a>
+    	<choices_b>B. Jose</choices_b>
+    	<choices_c>C. Manuel Alberto Alonso</choices_c>
+    	<choices_d>D. Jose Carlos Miguel Acosta</choices_d>
+    	<answer>D</answer>    
+    </question>
+    <question>
+    	<number>8</number>
+    	<description>What year did Concha died because of sickness?</description>
+    	<choices_a>A. 1866</choices_a>
+    	<choices_b>B. 1865</choices_b>
+    	<choices_c>C. 1868</choices_c>
+    	<choices_d>D. 1898</choices_d>
+    	<answer>B</answer>    
+    </question>
+    <question>
+    	<number>9</number>
+    	<description>What was the exact date when Jose and his father left in Calamba to go on pilgrimage to Antipolo, in order to fulfill his mother’s vow which was made when Jose was born?</description>
+    	<choices_a>A. June 9, 1868</choices_a>
+    	<choices_b>B. October 3, 1876</choices_b>
+    	<choices_c>C. July 26, 1877</choices_c>
+    	<choices_d>D. June 6, 1868</choices_d>
+    	<answer>D</answer>    
+    </question>
+    <question>
+    	<number>10</number>
+    	<description>Who was Jose’s first teacher?</description>
+    	<choices_a>A. Doña Teodora</choices_a>
+    	<choices_b>B. Don Quixote</choices_b>
+    	<choices_c>C. Daniel Dasig</choices_c>
+    	<choices_d>D. Kenneth Valenzuela</choices_d>
+    	<answer>A</answer>    
+    </question>
+</chap1>

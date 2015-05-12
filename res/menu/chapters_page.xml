@@ -1,0 +1,62 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ebookapp.ChaptersPage" >
+
+    <item
+        android:id="@+id/menu_bookmark"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/lbl_add_bookmark"/>
+    
+    <item 
+        android:id="@+id/menu_chapter"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/lbl_chapter"/>
+    
+    <item 
+        android:id="@+id/menu_take_quiz"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/lbl_take_quiz"/>
+    
+    <item 
+        android:id="@+id/menu_speak"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/lbl_speak"/>
+    
+    <item 
+        android:id="@+id/menu_mark_text"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/lbl_mark_text"/>
+    
+    <item 
+        android:id="@+id/menu_clear_all"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/lbl_clear_text"/>
+    
+    <item 
+        android:id="@+id/menu_home"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/lbl_home"/>
+    
+    
+    <item 
+        android:id="@+id/menu_prev"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/prev"
+        android:title="@string/lbl_prev"/>
+    
+    <item 
+        android:id="@+id/menu_next"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/next"
+        android:title="@string/lbl_next"/>
+
+</menu>

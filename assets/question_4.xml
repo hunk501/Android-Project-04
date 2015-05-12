@@ -1,0 +1,95 @@
+<?xml version="1.o" encoding="UTF-8" ?>
+<chap1>
+    <question>
+    	<number>1</number>
+    	<description>What is the title of Chapter 4?</description>
+    	<choices_a>A. Trials in Ateneo 1872-77</choices_a>
+    	<choices_b>B. Triumphs In De La Salle 1873-78</choices_b>
+    	<choices_c>C. Triumphs In Ateneo 1872-77</choices_c>
+    	<choices_d>D. Trials in De La Salle 1873-79</choices_d>
+    	<answer>C</answer>    
+    </question>
+    <question>
+        <number>2</number>
+        <description>Who was Rizal’s first professor in Ateneo?</description>
+        <choices_a>A. Fr. Jose Bustos</choices_a>
+    	<choices_b>B. Fr. Jose Luna</choices_b>
+    	<choices_c>C. Fr. Jose Bech</choices_c>
+    	<choices_d>D. None of the Above</choices_d>
+    	<answer>C</answer>
+    </question>
+    <question>
+        <number>3</number>
+        <description>Rizal enters Ateneo on?</description>
+        <choices_a>A. June 10, 1872</choices_a>
+    	<choices_b>B. June 3, 1877</choices_b>
+    	<choices_c>C. June 1, 1873</choices_c>
+    	<choices_d>D. June 4, 1874</choices_d>
+    	<answer>A</answer>
+    </question>
+     <question>
+        <number>4</number>
+        <description>Who was the first of his family to adopt the surname “Rizal”?</description>
+        <choices_a>A. Saturnina</choices_a>
+    	<choices_b>B. Paciano</choices_b>
+    	<choices_c>C. Leonora</choices_c>
+    	<choices_d>D. Jose</choices_d>
+    	<answer>D</answer>
+    </question>
+    <question>
+        <number>5</number>
+        <description>Jose boarded with this woman in order to collect part of the debt.</description>
+        <choices_a>A. Chichay</choices_a>
+    	<choices_b>B. Titay</choices_b>
+    	<choices_c>C. Josefa</choices_c>
+    	<choices_d>D. Josephine</choices_d>
+    	<answer>B</answer>
+    </question>
+    <question>
+        <number>6</number>
+        <description>What are the two groups were in perpetual warfare for supremacy in the men and blue for the Carthaginians?</description>
+        <choices_a>A. Roman Empire and Carthaginian Empire</choices_a>
+    	<choices_b>B. Externos and internos</choices_b>
+    	<choices_c>C. Both A and B</choices_c>
+    	<choices_d>D. None of the Above</choices_d>
+    	<answer>A</answer>
+    </question>
+    <question>
+        <number>7</number>
+        <description>The Ateneo students in Rizal time wear what kind of fabric for their uniform.</description>
+        <choices_a>A. Hemp-Fabric Trousers</choices_a>
+    	<choices_b>B. Coconut silk</choices_b>
+    	<choices_c>C. Both A and B</choices_c>
+    	<choices_d>D. None of the Above</choices_d>
+    	<answer>A</answer>
+    </question>
+    <question>
+        <number>8</number>
+        <description>What is the pen name of Saturnina?</description>
+        <choices_a>A. Inday</choices_a>
+    	<choices_b>B. Neneng</choices_b>
+    	<choices_c>C. Nene</choices_c>
+    	<choices_d>D. Tanine</choices_d>
+    	<answer>B</answer>
+    </question>
+    <question>
+        <number>9</number>
+        <description>Later Rizal read ____________ by Dr. Feodor Jagor</description>
+        <choices_a>A. Travelers of the worldy</choices_a>
+    	<choices_b>B. Travels in the Philippines</choices_b>
+    	<choices_c>C. Travels in Germany</choices_c>
+    	<choices_d>D. None of above</choices_d>
+    	<answer>B</answer>
+    </question>
+    <question>
+        <number>10</number>
+        <description>At school year 1876-1877, what is his remarks in his subject Physics?</description>
+        <choices_a>A. Good</choices_a>
+    	<choices_b>B. Outstanding</choices_b>
+    	<choices_c>C. Excellent</choices_c>
+    	<choices_d>D. Poor</choices_d>
+    	<answer>C</answer>
+    </question>
+</chap1>
+
+

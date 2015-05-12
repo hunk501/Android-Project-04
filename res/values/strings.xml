@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ebook</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Close Application</string>
+    <string name="book_title">Table of Contents</string>
+    <string name="lbl_bookmark">Bookmarks</string>
+    <string name="lbl_aboutus">About Us</string>
+    <string name="title_activity_chapters_page">ChaptersPage</string>
+
+    <!-- Chapters Menu -->
+    <string name="lbl_prev">Prev</string>
+    <string name="lbl_next">Next</string>
+    <string name="title_activity_next_page">NextPage</string>
+    <string name="title_activity_prev_page">PrevPage</string>
+    <string name="lbl_chapter">Chapters</string>
+    <string name="lbl_home">Home</string>
+    <string name="title_activity_cover_page">CoverPage</string>
+    <string name="lbl_take_quiz">Take Quiz</string>
+    <string name="lbl_speak">Speech</string>
+    <string name="lbl_add_bookmark">Add Bookmark</string>
+    <string name="lbl_mark_text">Mark Text</string>
+    <string name="lbl_clear_text">Clear All</string>
+    <string name="lbl_start_reading">Next</string>
+    <string name="title_activity_bookmark_list">BookmarkList</string>
+    <string name="lbl_menu_back">Back</string>
+    <string name="lbl_menu_delete">Delete</string>
+    <string name="title_activity_take_quiz">Chapter 2 Quiz</string>
+    <string name="lbl_submit_answer">Submit Answer</string>
+    <string name="lbl_introduction">Introduction</string>
+    <string name="title_activity_splash">Splash</string>
+
+</resources>

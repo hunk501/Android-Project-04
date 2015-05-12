@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chap1>
+    <question>
+    	<number>1</number>
+    	<description>Where was the formal schooling of Jose Rizal?</description>
+    	<choices_a>A. Calamba, Laguna</choices_a>
+    	<choices_b>B. Real, Quezon</choices_b>
+    	<choices_c>C. Biñan, Laguna</choices_c>
+    	<choices_d>D. Pililia, Rizal</choices_d>
+    	<answer>C</answer>    
+    </question>
+    <question>
+    	<number>2</number>
+    	<description>Where was the natal town of his father?</description>
+    	<choices_a>A. Calamba, Laguna</choices_a>
+    	<choices_b>B. Biñan, Laguna</choices_b>
+    	<choices_c>C. Tiaong, Quezon</choices_c>
+    	<choices_d>D. Talim Island, Rizal</choices_d>
+    	<answer>B</answer>    
+    </question>
+    <question>
+    	<number>3</number>
+    	<description>He attended private school under ________.</description>
+    	<choices_a>A. Maestro Justiano Aquino Cruz</choices_a>
+    	<choices_b>B. Maestro Gustavio</choices_b>
+    	<choices_c>C. Maestro Celestino</choices_c>
+    	<choices_d>D. Maestro Jose Padua</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>4</number>
+    	<description>This old Latin teacher lived in the Rizal home, but he died five months later.</description>
+    	<choices_a>A. Lucas Padua</choices_a>
+    	<choices_b>B. Leon Monroy</choices_b>
+    	<choices_c>C. Justiniano Aquino Cruz</choices_c>
+    	<choices_d>D. Maestro Celestino</choices_d>
+    	<answer>B</answer>    
+    </question>
+    <question>
+    	<number>5</number>
+    	<description>Jose was nearly how many years old when the tragic martyrdome of Gom-Bur-Za took place?</description>
+    	<choices_a>A. 11</choices_a>
+    	<choices_b>B. 12</choices_b>
+    	<choices_c>C. 13</choices_c>
+    	<choices_d>D. 10</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>6</number>
+    	<description>Which of the following statement is true?</description>
+    	<choices_a>A. Best Student in School. In school studies, Jose beat all Biñan boys. He surpassed them all in Spanish, Latin, and other subjects.</choices_a>
+    	<choices_b>B. Best Student in School. In school studies, Jose beat all Biñan boys. He surpassed them all in English, Filipino, and other subjects</choices_b>
+    	<choices_c>C. Best Student in School. In school studies, Jose beat all Biñan girls. He surpassed them all in Spanish, Latin, and other subjects</choices_c>
+    	<choices_d>D. Best Student in School. In school studies, Jose beat all Biñan girls and boys. He surpassed them all in Spanish, Latin, and other subjects</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>7</number>
+    	<description>On what year did Cavite Mutiny flared up?</description>
+    	<choices_a>A. 1877</choices_a>
+    	<choices_b>B. 1872</choices_b>
+    	<choices_c>C. 1887</choices_c>
+    	<choices_d>D. 1888</choices_d>
+    	<answer>B</answer>    
+    </question>
+    <question>
+    	<number>8</number>
+    	<description>Who was the bully that Jose met?</description>
+    	<choices_a>A. Pedro</choices_a>
+    	<choices_b>B. Juan</choices_b>
+    	<choices_c>C. Fernan</choices_c>
+    	<choices_d>D. Paciano</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>9</number>
+    	<description>When was Jose Received a letter from his sister Saturnina?</description>
+    	<choices_a>A. November, 1871</choices_a>
+    	<choices_b>B. June, 1870</choices_b>
+    	<choices_c>C. December, 1871</choices_c>
+    	<choices_d>D. July, 1871</choices_d>
+    	<answer>C</answer>    
+    </question>
+    <question>
+    	<number>10</number>
+    	<description>Who was arrested on malicious charge that she aided her brother, Jose Alberto in trying to poison Alberto’s wife?</description>
+    	<choices_a>A. Saturnina</choices_a>
+    	<choices_b>B. Doña Teodora</choices_b>
+    	<choices_c>C. Segunda Katigbak</choices_c>
+    	<choices_d>D. Concepcion</choices_d>
+    	<answer>B</answer>    
+    </question>
+</chap1>

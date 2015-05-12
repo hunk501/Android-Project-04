@@ -1,0 +1,61 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="top"
+    android:paddingTop="0dip" >
+
+    <TableRow>
+        
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:paddingTop="0dip" >
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/textview1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|center_vertical"
+                    android:layout_marginLeft="10dip"
+                    android:layout_marginTop="4dip"
+                    android:layout_span="1"
+                    android:layout_weight="1"
+                    android:textColor="#FFF"
+                    android:textSize="9pt"
+                    android:text="Chapters 1" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/textview2"
+                   	android:layout_height="wrap_content"
+					android:layout_width="200dp"
+					android:layout_weight="1"
+					android:layout_gravity="left|center_vertical"
+					android:layout_marginLeft="10dip"
+					android:layout_marginTop="4dip"
+					android:layout_marginBottom="3dip"
+                    android:textSize="5pt"
+                    android:text="Subtitle here..."
+                    android:typeface="monospace"
+                    android:textColor="#FFF"/>
+            </TableRow>
+        </TableLayout>
+        
+        <ImageView
+            android:id="@+id/imageview1"
+			android:layout_height="30dp"
+			android:layout_width="30dp"
+			android:scaleType="centerCrop"
+			android:layout_marginLeft="10dp"
+			android:layout_marginTop="10dp"
+			android:gravity="left"
+			/>
+        
+    </TableRow>
+
+</TableLayout>

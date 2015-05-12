@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chap1>
+    <question>
+    	<number>1</number>
+    	<description>Why Rizal’s departure for Spain was kept in secret?</description>
+    	<choices_a>A. In order to avoid detection by the colonial officials and friars.</choices_a>
+    	<choices_b>B. To secretly left Calamba.</choices_b>
+    	<choices_c>C. In order to study in Spain in different name.</choices_c>
+    	<choices_d>D. None of the Above.</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>2</number>
+    	<description>Who is Chengoy?</description>
+    	<choices_a>A. Cariño Luna</choices_a>
+    	<choices_b>B. Jose M. Cecilio.</choices_b>
+    	<choices_c>C. Paciano Rizal.</choices_c>
+    	<choices_d>D. Raja Sikatuna</choices_d>
+    	<answer>B</answer>    
+    </question>
+    <question>
+    	<number>3</number>
+    	<description>Rizal used a passport obtained by a cousin named __________</description>
+    	<choices_a>A. Jose Mercado.</choices_a>
+    	<choices_b>B. Jose Alonzo</choices_b>
+    	<choices_c>C. Jose Protacio</choices_c>
+    	<choices_d>D. Jose Realonda</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>4</number>
+    	<description>In English, what does adios means?</description>
+    	<choices_a>A. Hello</choices_a>
+    	<choices_b>B. Good morning.</choices_b>
+    	<choices_c>C. Goodbye </choices_c>
+    	<choices_d>D. Good evening</choices_d>
+    	<answer>C</answer>    
+    </question>
+    <question>
+    	<number>5</number>
+    	<description>What is Salvadora?</description>
+    	<choices_a>A. Spanish Tuna</choices_a>
+    	<choices_b>B. Spanish Boat</choices_b>
+    	<choices_c>C. Spanish Steamer</choices_c>
+    	<choices_d>D. Spanish wine</choices_d>
+    	<answer>C</answer>    
+    </question>
+    <question>
+    	<number>6</number>
+    	<description>Who constructed the historic waterway Suez Canal?</description>
+    	<choices_a>A. Ferdinand de Castro</choices_a>
+    	<choices_b>B. Ferdinand de Lesseps</choices_b>
+    	<choices_c>C. Doug Ruther</choices_c>
+    	<choices_d>D. Stiff Meister</choices_d>
+    	<answer>B</answer>    
+    </question>
+    <question>
+    	<number>7</number>
+    	<description>Rizal’s Amor Patrio, under his pen name Laong Laan, appeared in print in Diariong Tagalog on what date?</description>
+    	<choices_a>A. August 20, 1882</choices_a>
+    	<choices_b>B. April 20, 1883</choices_b>
+    	<choices_c>C. May 5, 1882</choices_c>
+    	<choices_d>D. July 14, 1882</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>8</number>
+    	<description>Amor Patrio was published in two texts, _____ and _______.</description>
+    	<choices_a>A. English and German.</choices_a>
+    	<choices_b>B. Spanish and English.</choices_b>
+    	<choices_c>C. Tagalog and Spanish</choices_c>
+    	<choices_d>D. None of the Above.</choices_d>
+    	<answer>C</answer>    
+    </question>
+    <question>
+    	<number>9</number>
+    	<description>On what date did Rizal enroll in Universidad Central de Madrid (Central University of Madrid)?</description>
+    	<choices_a>A. November 3, 1882</choices_a>
+    	<choices_b>B. August 2, 1882</choices_b>
+    	<choices_c>C. June 3, 1882</choices_c>
+    	<choices_d>D. July 13, 1883</choices_d>
+    	<answer>A</answer>    
+    </question>
+    <question>
+    	<number>10</number>
+    	<description>On what date did he write a lovely poem entitled A la Senorita C.O. y R?</description>
+    	<choices_a>A. August 22, 1883</choices_a>
+    	<choices_b>B. June 3, 1882</choices_b>
+    	<choices_c>C. July 13, 1883</choices_c>
+    	<choices_d>D. August 2, 1882</choices_d>
+    	<answer>A</answer>    
+    </question>
+</chap1>
